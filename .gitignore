@@ -25,3 +25,4 @@ hs_err_pid*
 # add 20210124
 .classpath
 .project
+.settings/
