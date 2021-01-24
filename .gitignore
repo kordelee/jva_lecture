@@ -23,6 +23,7 @@
 hs_err_pid*
 
 # add 20210124
+.gitignore
 .classpath
 .project
 .settings/
